@@ -1,6 +1,11 @@
 # Oversikt over kommende arrangementer i regi av SK Vidar Lang
 
-Det er ingen planlagte arrangementer nå.
+## Holmenkollstafetten <Badge type="tip" text="løp, buss, fest" /> <Badge type="info" text="4. Mai, 2024" />
+* Bli med på vårens største løpsfest!
+* Vårt mål er å samle minst 14 lag, dvs 210 løpere, noe vi klarte i 2023! 
+* Festlighetene fortsetter med etterfest; stedet annonseres senere.
+* Påmelding til stafetten og fest [kommer]
+
 
 ## Tidligere arrangementer
 
